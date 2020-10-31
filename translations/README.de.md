@@ -1,13 +1,13 @@
 # OpenEBS
 
 [![Releases](https://img.shields.io/github/release/openebs/openebs/all.svg?style=flat-square)](https://github.com/openebs/openebs/releases)
-[![Slack](https://img.shields.io/badge/chat!!!-slack-ff1493.svg?style=flat-square)]( https://openebs-community.slack.com)
+[![Slack channel #openebs](https://img.shields.io/badge/slack-openebs-brightgreen.svg?logo=slack)](https://kubernetes.slack.com/messages/openebs)
 [![Twitter](https://img.shields.io/twitter/follow/openebs.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=openebs)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/openebs/openebs/blob/master/CONTRIBUTING.md)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenebs%2Fopenebs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenebs%2Fopenebs?ref=badge_shield)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1754/badge)](https://bestpractices.coreinfrastructure.org/projects/1754)
 
-https://openebs.org/
+https://openebs.io/
 
 **OpenEBS** ermöglicht die Verwendung von Containern für geschäftskritische, persistente Workloads und für andere Stateful-Workloads, z. B. Protokollierung oder Prometheus. OpenEBS sind Container- und verwandte Speicherdienste.
  
@@ -20,12 +20,7 @@ https://openebs.org/
 
 **Unsere Vision** ist einfach: Lassen Sie die Speicher- und Speicherdienste für persistente Workloads vollständig in die Umgebung integrieren, sodass jedes Team und jeder Workload von der Granularität der Steuerung und dem nativen Verhalten von Kubernetes profitiert.
 x
-#### *Lies dies in [anderen Sprachen](translations/TRANSLATIONS.md).*
-
-[🇩🇪](README.de.md)
-[:uk:](../README.MD)
-[🇷🇺](README.ru.md)
-[🇹🇷](README.tr.md)
+#### *Lies dies in [anderen Sprachen](/translations#readme).*
 
 ## Skalierbarkeit
  
@@ -58,15 +53,15 @@ Wir nähern uns der Beta-Phase mit aktiver Entwicklung. Weitere Informationen fi
  
 OpenEBS freut sich über Ihr Feedback und Ihre Beiträge in jeder möglichen Form.
  
-- [Tritt unserer Gemeinschaft](https://openebs.io/join-our-slack-community)
-  - Bereits angemeldet? Besuchen Sie unsere Diskussionen unter [#openebs-users](https://openebs-community.slack.com/messages/openebs-users/).
+- [Tritt unserer Gemeinschaft](https://kubernetes.slack.com)
+  - Bereits angemeldet? Besuchen Sie unsere Diskussionen unter [#openebs](https://kubernetes.slack.com/messages/openebs/).
 - Möchten Sie ein Problem ansprechen?
   - Wenn es sich um ein generisches Produkt (oder "nicht wirklich sicher") handelt, können Sie es dennoch unter [issues](https://github.com/openebs/openebs/issues) anheben.
   - Projekt (Repository) spezifische Probleme können auch unter [issues](https://github.com/openebs/openebs/issues) angesprochen und mit den einzelnen Repository-Labels wie *repo/maya* versehen werden.
 - Möchten Sie mit Fixes und Features helfen?
-  - Siehe [offene Ausgaben](https://github.com/openebs/openebs/labels)
-- Siehe [Beitragender Leitfaden](./CONTRIBUTING.md)
-  - Möchten Sie unserer Community beitreten, [check this out](./community/README.md).
+  - Siehe [offene Ausgaben](https://github.com/openebs/openebs/labels).
+- Siehe [Beitragender Leitfaden](/CONTRIBUTING.md)
+  - Möchten Sie unserer Community beitreten, [check this out](/community/README.md).
 
 ## Zeig mir den Code
 
@@ -75,7 +70,7 @@ Dies ist ein Meta-Repository für OpenEBS. Der Quellcode ist an folgenden Orten 
 - Der Quellcode der Storage Orchestration befindet sich unter [openebs/maya](https://github.com/openebs/maya).
 - Während *jiva* und *maya* bedeutende Teile des Quellcodes enthalten, wird ein Teil des Orchestrierungs- und Automatisierungscodes auch in anderen Repositorys der OpenEBS-Organisation verteilt.
 
-Beginnen Sie mit den angehefteten Repositorys oder mit dem Dokument [OpenEBS Architecture](./contrib/design/README.md).
+Beginnen Sie mit den angehefteten Repositorys oder mit dem Dokument [OpenEBS Architecture](/contribute/design/README.md).
 
 ## Lizenz
 

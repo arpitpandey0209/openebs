@@ -1,50 +1,57 @@
 # Welcome to OpenEBS Community
 
-This is a meta-repository for OpenEBS. Here, you will find links to various artifacts related to documentation, e2e tests, and code related to building and deploying OpenEBS.
+In this page you will find various options for engaging with OpenEBS User and Contributor Community. 
 
-Nevertheless, find below a list of many general channels, groups, and meetings devoted to OpenEBS.
+## Getting Started with Contributing
 
-## Communication
+We are always looking for new contributions. [CONTRIBUTING.md](../CONTRIBUTING.md) is a great place to start.
 
-- [Community](https://openebs.io/join-our-slack-community) - Sign Up for Slack.
+## Reporting an Issue
 
-- [Blog](https://blog.openebs.io) - Blogs on Containerized Storage, and DevOps.
-
-- [Twitter](https://twitter.com/openebs) - Follow.
-
-Real time discussions happen at [OpenEBS Community Slack](https://openebs-community.slack.com/).
-
-## How Can I Help?
-
-Documentation (like the text you are reading now) can always use improvement!
-
-There's a curated list of issues, [Good First Issue](https://github.com/openebs/openebs/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that should not need deep knowledge of the system.
-
-To dig deeper, please start by having a look at [OpenEBS Architecture](../contribute/design/README.md).
-
-There's always scope for code to be clarified and variables or functions that can be renamed or commented and need for more test coverage.
-
-## Getting Started
-
-Reading the [CONTRIBUTING.md](../CONTRIBUTING.md) will help you get started with:
-
-## Issues
-
-If you have a question about OpenEBS or have a problem using it, please start with the [troubleshooting guide](https://docs.openebs.io/docs/troubleshooting.html).
+If you have a question about OpenEBS or have a problem using it, please check the [troubleshooting guide](https://docs.openebs.io/docs/next/troubleshooting.html).
 If that does not answer your questions, or if you think you found a bug, please [file an issue](https://github.com/openebs/openebs/issues).
 
-## Weekly Meeting
+## Contact
 
-We have weekly contributor meeting every Friday at 10 am Indian Standard Time over [Zoom](https://zoom.us/j/438333946).
+- **Slack:** [Join OpenEBS community on Kubernetes Slack](https://kubernetes.slack.com).
+    - Already signed up? 
+      * Head to our user discussions at [#openebs](https://kubernetes.slack.com/messages/openebs/)
+      * Head to our contributor discussions at [#openebs-dev](https://kubernetes.slack.com/messages/openebs-dev/)
 
-To add this event to your calendar, please send an email to nisanta.sahoo@openebs.io or use the following [public event link](https://calendar.google.com/calendar/embed?src=openebs%40gmail.com&ctz=Asia%2FCalcutta).
+- **Forum:** Subscribe to our email lists: 
+  - [user forum](https://lists.cncf.io/g/cncf-openebs-users) or 
+  - [announcement list](https://lists.cncf.io/g/cncf-openebs-announcements).
 
-Map that to your local time with this [timezone table](https://www.google.com/search?q=1000+am+in+ist).
+- **Twitter:** Follow us [@openebs](https://twitter.com/openebs).
 
-### Meeting resources
+- **Blog:** Check out our [Blog](https://openebs.io/blog) on OpenEBS, Container Attached Storage, DevOps, Cloud Native Data Management.
 
-- Agenda and any notes from each meeting are captured in this [document](https://docs.google.com/document/d/1mHL1ypds4Hf6OnOGz2dOufamu4LiSt4Sgnl9QFrxDls).
+## Community Meetings
 
-- Feature requests and current release tasks are captured in this [planning sheet](https://docs.google.com/spreadsheets/d/1bbphUqbxShBhgr1VHaEQUzIGMaJJacPNKc1ckNXU1QE).
+To add any of the following events to your calendar, please send an email to `kiran.mova@mayadata.io`.
+
+### Daily Standup and Release Cadence Meetings
+
+We have a daily standup focused on the current release items over [Google Hangout](https://meet.google.com/rui-powc-fgt?hs=122)
+
+Feature requests and current release tasks are captured in this [GitHub projects](https://github.com/orgs/openebs/projects).
+
+### Weekly Project Sync-up Meetings
+
+We have a weekly or bi-weekly sync up over Google hangout or Zoom on sub projects of openebs: 
+
+- OpenEBS Release Review meeting every Thursday at 12:00PM IST over [Zoom](https://zoom.us/j/94026663246). 
+- E2e Review every Monday at 12:45PM IST over [Hangout](https://meet.google.com/bme-vjsj-qdp)
+- Backup and Restore Review every other Tuesday at 11:00AM IST over [Hangout](https://meet.google.com/xjb-pcxo-wsx)
+- NDM and Local PV Review every Tuesday at 12:45PM IST over [Hangout](https://meet.google.com/vid-sfmt-igs)
+- Jiva Review every Wednesday at 12:45PM IST over [Hangout](https://meet.google.com/nvu-dhwx-jhb)
+- cStor Review every Thursday at 12:45PM IST over [Hangout](https://meet.google.com/tdk-rqwj-ujp)
+- ZFS Local PV Review every Friday at 12:45PM IST over [Hangout](https://meet.google.com/yoq-fktt-qqn)
+
+### Monthly Product Roadmap Review Meetings
+
+We have monthly meeting every first Tuesday at 9:30AM PT over [Zoom](https://zoom.us/j/93142650382). Map that to your local time with this [timezone table](https://www.thetimezoneconverter.com/?t=09:30&tz=PT%20%28Pacific%20Time%29).
+
+This meeting focuses on reviewing the [current roadmap](https://github.com/openebs/openebs/blob/master/ROADMAP.md) and direction of the project or general questions from the broader community. 
 
 Go back to [**Contributing to OpenEBS**](../CONTRIBUTING.md).
